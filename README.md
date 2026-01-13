@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-SOC triage and forensics investigations based on controlled lab datasets. Each report is written in a SOC style format with evidence, correlation, determination, IOCs, and recommended response actions.
+SOC triage and forensics investigations based on controlled lab environments. Each report is written in a SOC style format with evidence, correlation, determination, IOCs, and recommended response actions.
 
 ## Featured investigations
 
