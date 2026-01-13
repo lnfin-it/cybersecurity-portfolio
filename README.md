@@ -5,30 +5,27 @@ SOC triage and forensics investigations based on controlled lab datasets. Each r
 ## Featured investigations
 
 1. Suspicious osk.exe investigation (Sysmon, Splunk, FortiGate UTM, Suricata, OSINT)  
-   PDF: featured/REPLACE_ME_osk_investigation.pdf
+   PDF: [Open report](featured/Suspicious%20osk%20exe%20investigation.pdf)
 
 2. Splunk SIEM investigation dashboard and hunting (Suricata plus FortiGate UTM)  
-   PDF: featured/REPLACE_ME_siem_dashboard_and_hunting.pdf
+   PDF: [Open report](featured/Splunk%20SIEM%20dashboard%20and%20hunting.pdf)
 
 3. Windows Security event log timeline (Security.evtx)  
-   PDF: featured/REPLACE_ME_windows_security_evtx_timeline.pdf
+   PDF: [Open report](featured/Windows%20Security%20evtx%20timeline.pdf)
 
 4. Windows artifacts forensics (Prefetch, LNK, Jump Lists)  
-   PDF: featured/REPLACE_ME_windows_artifacts_plaguerat.pdf
+   PDF: [Open report](featured/Windows%20artiface%20PlagueRat.pdf)
 
 ## Additional investigations
 
-1. Web vulnerability scan triage using FortiGate UTM logs  
-   PDF: additional/REPLACE_ME_web_vuln_scan_fortigate.pdf
+1. Digital forensics fundamentals (file systems, metadata, carving, hashing)  
+   PDF: [Open report](additional/Digital%20forensics%20fundamentals.pdf)
 
 2. Joomla admin brute force triage in Splunk  
-   PDF: additional/REPLACE_ME_joomla_bruteforce_splunk.pdf
+   PDF: [Open report](additional/Joomla%20admin%20brute%20force%20Splunk.pdf)
 
 3. Threat intel triage in MISP (IOC extraction and defensive scope)  
-   PDF: additional/REPLACE_ME_misp_threat_intel_triage.pdf
-
-4. Digital forensics fundamentals (file systems, metadata, carving, hashing)  
-   PDF: additional/REPLACE_ME_digital_forensics_fundamentals.pdf
+   PDF: [Open report](additional/MISP%20threat%20intel%20triage.pdf)
 
 ## Tools and platforms used
 
